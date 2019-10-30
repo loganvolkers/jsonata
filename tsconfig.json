@@ -1,0 +1,6 @@
+{
+    "compileOptions": {
+        "module": "commonjs",
+        "types": ["node"]
+    }
+}
